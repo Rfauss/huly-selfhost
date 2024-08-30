@@ -1,0 +1,7 @@
+{
+	email domain.admin@movmation.com
+}
+
+work.movmation.com {
+	reverse_proxy localhost:8087
+}
